@@ -1,0 +1,3 @@
+
+armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Debian/armhf/debian-rootfs-armhf.tar.xz
+

@@ -1,0 +1,3 @@
+
+armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Fedora/armhf/fedora-rootfs-armhf.tar.xz
+

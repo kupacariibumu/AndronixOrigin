@@ -1,6 +1,3 @@
 
-amd64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Debian/amd64/debian-rootfs-amd64.tar.xz
-debian-rootfs-amd64.tar.xz
-Size: 79.70MB (83573780B)
-MD5: bbc145fbc0a73f766df174b2517860d2
+amd64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Fedora/amd64/fedora-rootfs-amd64.tar.xz
 

@@ -1,0 +1,3 @@
+
+armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Kali/armhf/kali-rootfs-armhf.tar.xz
+

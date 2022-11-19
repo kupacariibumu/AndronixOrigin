@@ -1,3 +1,10 @@
 
-armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Debian/armhf/debian-rootfs-armhf.tar.xz
+armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Alpine/armhf/alpine-minirootfs-3.10.3-armhf.tar.gz
+alpine-minirootfs-3.10.3-armhf.tar.gz
+Size: 2.38MB (2499374B)
+MD5: 0f03fc6ece4cf006f26ccce567e82f73
+Type: tar
+File count: 393
+Content size: 4.50MB (4721039B)
+Compression ratio: 52%
 

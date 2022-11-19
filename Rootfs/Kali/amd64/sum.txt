@@ -1,0 +1,3 @@
+
+amd64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Kali/amd64/kali-rootfs-amd64.tar.xz
+

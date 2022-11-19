@@ -1,3 +1,0 @@
-
-arm64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Debian/arm64/debian-rootfs-arm64.tar.xz
-

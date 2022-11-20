@@ -1,0 +1,3 @@
+
+arm64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Void/arm64/void_arm64.tar.xz
+

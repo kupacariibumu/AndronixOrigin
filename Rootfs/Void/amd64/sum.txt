@@ -1,0 +1,4 @@
+
+amd64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Void/amd64/void_amd64.tar.xz
+
+

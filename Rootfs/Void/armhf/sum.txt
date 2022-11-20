@@ -1,0 +1,3 @@
+
+armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Void/armhf/void_armhf.tar.xz
+

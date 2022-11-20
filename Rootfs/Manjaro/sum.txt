@@ -1,0 +1,9 @@
+
+https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Manjaro/appends
+
+https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Manjaro/manjaro.partaa
+
+https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Manjaro/manjaro.partab
+
+https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Manjaro/manjaro.partac
+

@@ -1,0 +1,10 @@
+
+arm64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Alpine/aarch64/alpine-minirootfs-3.10.3-aarch64.tar.gz
+alpine-minirootfs-3.10.3-aarch64.tar.gz
+Size: 2.50MB (2625361B)
+MD5: 53c401c9b5f15c70f020d5b0d19a1b96
+Type: tar
+File count: 393
+Content size: 5.08MB (5335262B)
+Compression ratio: 49%
+

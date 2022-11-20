@@ -1,0 +1,3 @@
+
+amd64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Parrot/amd64/parrot-rootfs-amd64.tar.xz
+

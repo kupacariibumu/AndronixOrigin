@@ -1,0 +1,3 @@
+
+armhf https://github.com/AndronixApp/AndronixOrigin/blob/master/Rootfs/Parrot/i386/parrot-rootfs-i386.tar.xz
+

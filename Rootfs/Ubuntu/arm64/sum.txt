@@ -1,0 +1,3 @@
+
+arm64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Ubuntu/arm64/ubuntu-rootfs-arm64.tar.xz
+

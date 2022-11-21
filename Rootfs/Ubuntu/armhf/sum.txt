@@ -1,0 +1,3 @@
+
+armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Ubuntu/armhf/ubuntu-rootfs-armhf.tar.xz
+

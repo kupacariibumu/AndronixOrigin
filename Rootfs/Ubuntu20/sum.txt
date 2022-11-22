@@ -1,0 +1,11 @@
+
+0n1cOn3/termux-w
+ifi https://raw.githubusercontent.com/0n1cOn3/termux-wifi/master/installer.sh
+
+tuanpham-dev/ter
+mux-ubuntu https://raw.githubusercontent.com/tuanpham-dev/termux-ubuntu/master/ubuntu.sh
+
+armhf https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Ubuntu20/focal-armhf.tar.gz
+arm64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Ubuntu20/focal-arm64.tar.gz
+amd64 https://github.com/AndronixApp/AndronixOrigin/raw/master/Rootfs/Ubuntu20/focal-amd64.tar.gz
+
